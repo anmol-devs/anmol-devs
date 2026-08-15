@@ -49,4 +49,4 @@ I believe the best way to learn is by building, shipping, and continuously impro
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=anmol-devs\&icon=7\&color=8)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=anmol-devs&icon=7&color=58a6ff)](https://visitcount.itsvg.in)
