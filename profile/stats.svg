@@ -1,15 +1,15 @@
 
       <svg
-        width="450"
-        height="195"
-        viewBox="0 0 450 195"
+        width="292.8999981880188"
+        height="170"
+        viewBox="0 0 292.8999981880188 170"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Anmol Singh&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 121, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 126, Total PRs: 0, Total Issues: 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 247.9575325006289;
+        stroke-dashoffset: 247.82427026721444;
       }
     }
   
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="449"
+          width="291.8999981880188"
           fill="#050F2C"
           stroke-opacity="0"
         />
@@ -136,18 +136,7 @@
           transform="translate(0, 55)"
         >
           
-    <g data-testid="rank-circle"
-          transform="translate(365, 47.5)">
-        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
-        <circle class="rank-circle" cx="-10" cy="8" r="40" />
-        <g class="rank-text">
-          
-        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C
-        </text>
-      
-        </g>
-      </g>
+    
     <svg x="0" y="0">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
@@ -155,7 +144,7 @@
       <text class="stat  bold"  y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="204.01"
+        x="154.01"
         y="12.5"
         data-testid="stars"
       >0</text>
@@ -166,10 +155,10 @@
       <text class="stat  bold"  y="12.5">Total Commits:</text>
       <text
         class="stat  bold"
-        x="204.01"
+        x="154.01"
         y="12.5"
         data-testid="commits"
-      >121</text>
+      >126</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -177,7 +166,7 @@
       <text class="stat  bold"  y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="204.01"
+        x="154.01"
         y="12.5"
         data-testid="prs"
       >0</text>
@@ -188,20 +177,9 @@
       <text class="stat  bold"  y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="204.01"
+        x="154.01"
         y="12.5"
         data-testid="issues"
-      >0</text>
-    </g>
-  </g><g transform="translate(0, 100)">
-    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
-      
-      <text class="stat  bold"  y="12.5">Contributed to (last year):</text>
-      <text
-        class="stat  bold"
-        x="204.01"
-        y="12.5"
-        data-testid="contribs"
       >0</text>
     </g>
   </g>
