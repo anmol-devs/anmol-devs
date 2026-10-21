@@ -2,7 +2,7 @@
 
 Hi, I'm Anmol 👋<br><br>
 
-I'm a Computer Science student specializing in Full Stack Web Development & Web Design with a growing interest in Backend Development.<br><br>
+Computer Science student specializing in Full Stack Web Development & Web Design with a growing interest in Backend Development.<br><br>
 
 I enjoy building web applications that solve real problems while continuously learning modern technologies and software engineering practices.<br><br>
 
