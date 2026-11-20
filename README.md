@@ -1,52 +1,97 @@
-# 💫 About Me:
+<p align="center">
+  <img src="./assets/banner.png" alt="Anmol Singh, full-stack developer" width="100%">
+</p>
 
-Hi, I'm Anmol 👋<br><br>
+<h1 align="center">Hi, I'm Anmol</h1>
 
-Computer Science student specializing in Full Stack Web Development & Web Design with a growing interest in Backend Development.<br><br>
+<h3 align="center">Full-Stack Developer</h3>
 
-I enjoy building web applications that solve real problems while continuously learning modern technologies and software engineering practices.<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Full-stack+by+default;%3E+AI+where+it+matters;%3E+Building+products+that+ship;%3E+Backend-heavy%2C+product-minded" alt="Typing SVG" />
+</p>
 
-Currently focusing on<br>
-⚙️ Backend Development<br>
-🌐 Full Stack Development (MERN)<br>
-🤖 AI-powered Web Applications<br>
-📚 System Design & Backend Architecture<br><br>
+<p align="center">
+Building reliable full-stack products with clean architecture, AI integrations, and interfaces that feel effortless.
+</p>
 
-I believe the best way to learn is by building, shipping, and continuously improving.
+<h2 align="center">About Me</h2>
 
-## 🌐 Socials:
+<img align="right" src="./assets/pixel-avatar.png" width="260" alt="Skull soldier pixel avatar"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/anmol-singh-6b17b0298/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/anmol_creates)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:anmolbhambra24@gmail.com)
+**Anmol**, here — a Computer Science student at JECRC University in Jaipur, currently maintaining a 9.12 CGPA.
 
-# 💻 Tech Stack:
+I build full-stack products with React, Node.js, MongoDB, and Redis, and I care about how they feel as much as how they work.
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge\&logo=redux\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge\&logo=firebase\&logoColor=ffcd34)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=Cloudflare\&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge\&logo=adobe%20illustrator\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge\&logo=affinity-designer\&logoColor=white)
+My recent work includes building Crodonian, a digital product studio, and StayWise.ai, an AI hotel booking and management platform.
 
-# 📊 GitHub Stats:
+I'm going deeper into backend architecture, system design, and AI integrations. I'm open to software engineering internships, entry-level roles, and remote collaborations.
 
-![GitHub Stats](./profile/stats.svg)
+<br clear="right"/>
 
-![GitHub Streak](./profile/streak.svg)
+<h2 align="center">Connect</h2>
 
-![Most Used Languages](./profile/top-langs.svg)
+<p align="center">
+  <a href="https://github.com/anmol-devs">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/anmol-singh-6b17b0298/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:anmolbhambra24@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://builtbyanmol.dev">Portfolio</a> ·
+  <a href="https://res.cloudinary.com/anmol-portfolio/image/upload/v1787214068/portfolio/resumes/Anmol_Singh_Resume.pdf">Resume</a> ·
+  <a href="https://x.com/anmol_creates">X</a>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=anmol-devs&icon=7&color=58a6ff)](https://visitcount.itsvg.in)
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redis,js,tailwind,git,github,vscode,firebase,vite,redux" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="Postman" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="Figma" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="48" alt="Illustrator" />
+</p>
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anmol-devs&theme=city_lights&hide_border=true&border_radius=5" height="150" alt="Anmol's GitHub streak" />
+</div>
+
+<h2 align="center">Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anmol-devs&bg_color=0D1117&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph" />
+</p>
+
+<h2 align="center">Commit Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmol-devs/anmol-devs/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmol-devs/anmol-devs/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/anmol-devs/anmol-devs/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" width="100%">
+  </picture>
+</p>
+
+<h2 align="center">Philosophy</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+</p>
