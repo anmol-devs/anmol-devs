@@ -18,7 +18,7 @@ Building reliable full-stack products with clean architecture, AI integrations, 
 
 <img align="right" src="./assets/pixel-avatar.png" width="260" alt="Skull soldier pixel avatar"/>
 
-**Anmol**, here — a Computer Science student at JECRC University in Jaipur, currently maintaining a 9.12 CGPA.
+I'm **Anmol**, a Computer Science student at JECRC University in Jaipur, currently maintaining a 9.12 CGPA.
 
 I build full-stack products with React, Node.js, MongoDB, and Redis, and I care about how they feel as much as how they work.
 
@@ -62,8 +62,6 @@ I'm going deeper into backend architecture, system design, and AI integrations. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="Postman" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="Figma" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="48" alt="Illustrator" />
 </p>
